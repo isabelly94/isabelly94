@@ -3,7 +3,7 @@
 Tenho 29 anos, sou iniciante no mundo da programação e estou em transição de carreira. <br>
 Desde maio deste ano estou aprendendo e me apaixonando pelo Front-End.
 
-Atualmente estou participando do Santander Bootcamp Full-Stack da DIO.
+Atualmente estou participando do Santander Bootcamp Fullstack da DIO.
 
 ## Conecte-se comigo
 
